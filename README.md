@@ -1,2 +1,2 @@
-# Magic_eight_ball
-##This was a fun, simple project
+#This was a fun, simple project
+> it uses objects and lists
